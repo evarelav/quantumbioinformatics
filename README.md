@@ -23,7 +23,7 @@ Download and install **[Visual Studio Code](https://code.visualstudio.com/)** as
 
 ### 3️⃣ Download and Open the Code  
 Clone or download this repository, then open `QuantumDNAAlignment.qs` in VS Code:  
-```sh
+
 git clone https://github.com/your-repo/QuantumBioinformatics.git
 cd QuantumBioinformatics
 code .
