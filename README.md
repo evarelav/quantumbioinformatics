@@ -28,7 +28,7 @@ git clone https://github.com/your-repo/QuantumBioinformatics.git
 cd QuantumBioinformatics
 code .
 
-## ☁️ Running on Azure Quantum Marketplace  
+### ☁️ Running on Azure Quantum Marketplace  
 
 You can also execute the quantum DNA alignment algorithm directly on **Azure Quantum Marketplace**, leveraging real quantum hardware and simulators.  
 
