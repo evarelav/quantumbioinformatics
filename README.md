@@ -1,14 +1,10 @@
 # quantumbioinformatics
 Microsoft Build 2025 is aimed to showcase innovative ideas, collaborate with Microsoft and ecosystem partners, and contribute to the global developer community
 
-# QuantumDNAEncoding
+# QuantumDNAEncoding requirements 
 
-A .NET console application for Quantum DNA Encoding.
+1 . Install Visual studio code
+2 . Open Visio Extension and install Azure Quantum Development Kit (QDK)
+3 . Download the code and open it up in Visio
+4 . AZURE Portal search for quantum in the Market place and run the Q# Code in real quantum Hardware
 
-## Setup Instructions
-
-### 1. Create the Project
-Run the following command to create a new .NET console application:
-
-```sh
-dotnet new console -n QuantumDNAEncoding
